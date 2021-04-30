@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="nome">Nome</string>
+    <string name="telefone">Telefone</string>
+    <string name="endereco">Endereço</string>
+    <string name="salvar_aluno">Salvar o contato</string>
+    <string name="remover">Remover</string>
+    <string name="telefone_1">Telefone 1</string>
+    <string name="telefone_2">Telefone 2</string>
+    <string name="alex_fernando_teste">Alex Fernando</string>
+    <string name="rua_avelino_anel_n_593_teste">Rua Avelino Anel n-593</string>
+    <string name="_518715846_teste">518715846</string>
+    <string name="_564614684_teste">564614684</string>
+</resources>
